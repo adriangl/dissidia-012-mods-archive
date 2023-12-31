@@ -109,7 +109,7 @@ Lightning returns (pun intended :P) as the Savior to Dissidia Duodecim to free t
 |--------------------------------|----------|-------------|------|
 | Equilibrium Lightning Player | 91 | DLC 4 | 1A03 |
 | Equilibrium Lightning Assist | 92 | DLC 4 | 1B03 |
-| Equilibrium Lightning Attachment | 93 | DLC 4 | 1C03 |
+| Equilibrium Lightning Attachment | 93 | - | 1C03 |
 
 <details open><summary><b>Video</b></summary>
 
@@ -149,7 +149,7 @@ Here're more Lightning goodies, this time she dresses up as Yuna from Final Fant
 |--------------------------------|----------|-------------|------|
 | Spira's Summoner Lightning Player | 98 | DLC 7 | 2103 |
 | Spira's Summoner Lightning Assist | 99 | DLC 7 | 2203 |
-| Spira's Summoner Lightning Attachment | 100 | DLC 7 | 2303 |
+| Spira's Summoner Lightning Attachment | 100 | - | 2303 |
 
 <details open><summary><b>Video</b></summary>
 
@@ -169,7 +169,7 @@ Lightning dresses as one of the Miqo'te race from FFXIV to defeat all the bad bo
 |--------------------------------|----------|-------------|------|
 | Miqo'te Lightning Player | 94 | DLC 5 | 1D03 |
 | Miqo'te Lightning Assist | 95 | DLC 5 | 1E03 |
-| Miqo'te Lightning Attachment | 101 | DLC 5 | 2403 |
+| Miqo'te Lightning Attachment | 101 | - | 2403 |
 
 <details open><summary><b>Video</b></summary>
 
@@ -189,7 +189,7 @@ Tidus enrolls as a student at Magic Academy Peristylium Suzaku to see if he can 
 |--------------------------------|----------|-------------|------|
 | Class Second's Ace Tidus Player | 102 | DLC 3 | 2503 |
 | Class Second's Ace Tidus Assist | 103 | DLC 3 | 2603 |
-| Class Second's Ace Tidus Attachment | 104 | DLC 3 | 2703 |
+| Class Second's Ace Tidus Attachment | 104 | - | 2703 |
 
 <details open><summary><b>Video</b></summary>
 
@@ -390,7 +390,7 @@ Lightning dons her iconic, valkyrie-like armor to fight against any foe that com
 |--------------------------------|----------|-------------|------|
 | Knight of Etro Lightning Player | 250 | DLC 2 | B903 |
 | Knight of Etro Lightning Assist | 251 | DLC 2 | BA03 |
-| Knight of Etro Lightning Attachment | 249 | DLC 2 | B803 |
+| Knight of Etro Lightning Attachment | 249 | - | B803 |
 
 No video!
 
@@ -425,7 +425,7 @@ Zidane plays his best performance with this new costume from Dissidia Opera Omni
 |--------------------------------|----------|-------------|------|
 | Soldier of Fortune Zidane Player | 64 | DLC 2 | FF02 |
 | Soldier of Fortune Zidane Assist | 65 | DLC 2 | 0003 |
-| Soldier of Fortune Zidane Attachment | 66 | DLC 2 | 0103 |
+| Soldier of Fortune Zidane Attachment | 66 | - | 0103 |
 
 <details open><summary><b>Video</b></summary>
 
